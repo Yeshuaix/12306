@@ -1,7 +1,7 @@
 #### 12306 购票小助手
 
 - python版本支持
-  - 2.7.10 - 2.7.15
+  -3.0以上
 - 依赖库
   - 依赖若快 若快注册地址：http://www.ruokuai.com/client/index?6726 推荐用若快，打码兔平台已经关闭
   - 项目依赖包 requirements.txt
@@ -37,13 +37,7 @@
 - 思路图
      ![image](https://github.com/testerSunshine/12306/blob/master/uml/uml.png)
 
-- 项目声明：
-  - 本软件只供学习交流使用，务作为商业用途，交流群号：286271084(已满)， 2群：649992274(已满)，请加3群(未满)， 群号：632501142、4群(未满)， 群号：606340519
-  - 请不要重复加群，一个群就可以了，把机会留给更多人
-  - **进群先看公告！！！进群先看公告！！！进群先看公告！！！ 重要的事情说三遍**
-  - 能为你抢到一张回家的票，是我最大的心愿
-
-- 成功log，如果是购票失败的，请带上失败的log给我，我尽力帮你调，也可加群一起交流，程序只是加速买票的过程，并不一定能买到票
+- 成功log
     ```
     正在第355次查询  乘车日期: 2018-02-12  车次G4741,G2365,G1371,G1377,G1329 查询无票  代理设置 无  总耗时429ms
     车次: G4741 始发车站: 上海 终点站: 邵阳 二等座:有
@@ -75,7 +69,4 @@
     - 以及所有为此项目提供pr的同学
 - [更新日志](Update.md)
 
-- 如果觉得项目还不错，可以考虑打赏一波
-    -
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/wx.jpeg?imageMogr2/auto-orient/strip)
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/zfb.jpeg?imageMogr2/auto-orient/strip)
+   
